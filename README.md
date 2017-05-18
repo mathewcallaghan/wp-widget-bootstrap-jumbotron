@@ -1,1 +1,1 @@
-# wp-widget-bootstrap-jumbotron
+# Bootstrap 4 Jumbotron Wordpress Widget
