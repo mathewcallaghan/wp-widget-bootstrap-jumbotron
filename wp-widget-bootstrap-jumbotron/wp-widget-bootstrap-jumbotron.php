@@ -1,12 +1,12 @@
 <?php
 /**
- * @link              https://github.com/mathewcallaghan/
+ * @link              https://github.com/mathewcallaghan/wp-widget-bootstrap-jumbotron
  * @since             1.0.0
  * @package           Bootstrap_Jumbotron_Widget
  *
  * @wordpress-plugin
  * Plugin Name:       Bootstrap Jumbotron Widget
- * Plugin URI:        https://github.com/mathewcallaghan/
+ * Plugin URI:        https://github.com/mathewcallaghan/wp-widget-bootstrap-jumbotron
  * Description:       Add a Bootstrap Jumbotron to widget areas (requires Bootstrap 4).
  * Version:           1.0.0
  * Author:            Mathew Callaghan
